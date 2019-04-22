@@ -1,4 +1,4 @@
-baseurl                 = "https://www.example.com/"
+baseurl                 = "https://xenodochial-albattani-34633e.netlify.com/"
 languageCode            = "en-us"
 title                   = "Hugo Phlat Theme"
 theme                   = "hugo-phlat-theme"
